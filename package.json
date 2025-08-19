@@ -17,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/MarcelaVargasR/OrderTrack/issues"
   },
-  "homepage": "https://github.com/MarcelaVargasR/OrderTrack#readme"
+  "homepage": "https://github.com/MarcelaVargasR/OrderTrack#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.3.0"
+  }
 }
