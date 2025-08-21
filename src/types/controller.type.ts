@@ -3,7 +3,5 @@ import { Router } from "express";
 export type Controller = {
   path: string;
   router: Router;
-
-  registerRoute():void
-  
+  registerRoutes(): void;
 };
